@@ -2,7 +2,7 @@
 ### Guida all'installazione
 1. Usando la versione 1.16.4 avvia il gioco dal tuo launcher e dopo essere arrivato al menù chiudi il gioco
 2. Scarica [forge](https://github.com/IlBuonTommy/mod_server/raw/master/forge-1.16.4-35.1.37-installer.jar) e installalo sul tuo PC eseguendo il file .jar con java
-3. Scarica la [cartella delle mod](https://github.com/IlBuonTommy/mod_server/tree/master/Mod) e metti il suo contenuto all'interno della cartella *mods* in .minecraft. Solitamente la cartella mods si trova in questa posizione `C:\Users\user\AppData\Roaming\.minecraft\mods`
+3. Scarica la [cartella delle mod](https://github.com/IlBuonTommy/mod_server/archive/refs/tags/v1.0.zip) e metti il suo contenuto all'interno della cartella *mods* in .minecraft. Solitamente la cartella mods si trova in questa posizione `C:\Users\user\AppData\Roaming\.minecraft\mods`
 4. Avvia il gioco con forge
 ### Lista delle mod presenti
 * SecurityCraft v1.8.20.2
