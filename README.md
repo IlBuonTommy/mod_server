@@ -11,7 +11,6 @@
 * Colytra 5.1.1.1
 * DoggyTalents 2.0.1.1
 * HappyTrails 1.36.0.8
-* Immersive portals 0.16
 * Jei 7.7.1.126
 * Morpheus
 * Obfuscate v.0.6.2
@@ -21,3 +20,4 @@
 * TravelersBackpack 5.3.8
 * Vehicle-mod 0.45.2
 * Xaeros_Minimap 21.19.0
+* Altre
