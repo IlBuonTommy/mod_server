@@ -35,6 +35,7 @@
 * Mowziesmobs v1.5.19
 * ProgressiveBosses v2.2.0
 * Rats v7.2.0
+* Lightmanscurrency v0.8.5.1
 * ScalingHealth v4.0.3+3
 * Silent-lib v4.9.6
 * Structure_gel v1.7.5
