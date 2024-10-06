@@ -1,45 +1,24 @@
 # Mod per il server
 ### Guida all'installazione
 1. Usando la versione 1.20.1 avvia il gioco dal tuo launcher e dopo essere arrivato al menù chiudi il gioco
-2. Scarica forge [cliccando qui](https://github.com/IlBuonTommy/mod_server/raw/master/forge-1.16.4-35.1.37-installer.jar) e installalo sul tuo PC eseguendo il file .jar con java
+2. Scarica forge [cliccando qui](https://github.com/IlBuonTommy/mod_server/raw/master/forge-1.20.1-47.3.0-installer.jar) e installalo sul tuo PC eseguendo il file .jar con java
 3. Scarica la cartella delle mod [cliccando qui](https://github.com/IlBuonTommy/mod_server/archive/refs/tags/v1.3.zip) e metti il suo contenuto (cioè **tutti file .jar** presenti nella cartella *Mod*) all'interno della cartella *mods* in .minecraft. Solitamente la cartella mods si trova in questa posizione: `C:\Users\user\AppData\Roaming\.minecraft\mods`
 4. Avvia il gioco con forge
 ### Lista delle mod presenti
-* SecurityCraft v1.8.20.2
-* BiomesOPlenty 13.0.0.440-universal
-* Caelus 2.1.0.2
-* Colytra 5.1.1.1
-* DoggyTalents 2.0.1.1
-* HappyTrails 1.36.0.8
-* Jei 7.7.1.126
-* Morpheus
-* Obfuscate v.0.6.2
-* OptiFine HD_U_G7
-* Sit v1.3.1
-* The_Undergarden 0.4.2
-* TravelersBackpack 5.3.8
-* Vehicle-mod 0.45.2
-* Xaeros_Minimap 21.19.0
-* AI-Improvements v0.3.0
-* AttributeFix v9.0.5
-* BetterCaves-Forge v1.1.2
-* BetterDungeons v1.2.1
-* BetterStrongholds v1.2.1
-* Citadel v1.8.1
-* Consecration v4.0.0.6
-* Dungeons_plus v1.1.3
-* DynamicSurroundings v4.0.4.2
-* Elevatorid v1.7.10
-* HarderSpawners v1.36.0.16
-* Lava-monster v1.0.9
-* Mowziesmobs v1.5.19
-* ProgressiveBosses v2.2.0
-* Rats v7.2.0
-* Lightmanscurrency v0.8.5.1
-* ScalingHealth v4.0.3+3
-* Silent-lib v4.9.6
-* Structure_gel v1.7.5
-* TenshiLib v1.3.0
-* Towers_of_the_wild v2.0.1
-* YungsApi
-* YungsExtras v1.0
+* Piramidi del deserto cambiate (c'è un puzzle da fare e tante stanza nascoste)
+* Tempio della giungla cambiato (con un percorso ad ostacoli e tante ricchezze)
+* Tempio del mare cambiato più grande e difficile (si trova il tridente)
+* villaggi cambiati più fighi e di varie tipologie
+* mineshaft ancora più fighe
+* pillager outpost di vario tipo ancora più fighe
+* mod per aggiungere la 1.21
+* traveler's backpack
+* nuove barche
+* Villager workers (puoi assoldare i villager per fare i lavori banali: minare, tagliare, pescare, commerciare, coltivare ….)
+* villager recuits (arruolare soldati villager e creare eserciti per poi combattere contro gli altri giocatori)
+* papere
+* varie strutture in giro per il mondo con i loot
+* armi e armature medievali
+* quadri medievali
+* Greater endereye sono come occhi del'end ma ti permettono di trovare varie strutture: villaggi, fortezze, rovine, …… 
+per aiutarvi c'è la JEI una wiki in gioco che vi aiuta come creare o recuperare l'oggetto facendo click sinistro e destro
